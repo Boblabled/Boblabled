@@ -1,9 +1,10 @@
 ### Hello there 🤙
 
-[![Boblabled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boblabled)](https://github.com/Boblabled/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblabled)](https://github.com/Boblabled/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblabled&layout=compact)](https://github.com/Boblabled/github-readme-stats)
 
 <!--
+[![Boblabled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boblabled)](https://github.com/Boblabled/github-readme-stats)
 **Boblabled/Boblabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

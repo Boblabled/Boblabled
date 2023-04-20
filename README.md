@@ -1,7 +1,7 @@
 ### Hello there 🤙
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblabled&layout=compact)](https://github.com/Boblabled/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boblabled&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Boblabled/github-readme-stats)
 
 <!--
 [![Boblabled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boblabled)](https://github.com/Boblabled/github-readme-stats)
